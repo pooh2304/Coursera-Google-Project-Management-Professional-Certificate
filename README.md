@@ -5,7 +5,7 @@
 |------------|------------------------------------------------------|-------------------------------------------------|
 | Course 1   | [Foundations of Project Management](https://www.coursera.org/learn/project-management-foundations?specialization=google-project-management) | [View Certificate](https://coursera.org/share/1eff46b804c810084dabe2720dec9bbc)  |
 | Course 2   | [Project Initiation: Starting a Successful Project](https://www.coursera.org/learn/project-initiation-google?specialization=google-project-management)            | [View Certificate](https://coursera.org/share/61143712fc8444c09ecdcb60f3cc08de)  |
-| Course 3   | [Project Planning: Putting It All Together](https://www.coursera.org/learn/project-planning-google?specialization=google-project-management)          | [View Certificate]()  |
+| Course 3   | [Project Planning: Putting It All Together](https://www.coursera.org/learn/project-planning-google?specialization=google-project-management)          | [View Certificate](https://coursera.org/share/61143712fc8444c09ecdcb60f3cc08de)  |
 | Course 4   | [Project Execution: Running the Project](https://www.coursera.org/learn/project-execution-google?specialization=google-project-management)                             | [View Certificate]()  |
 | Course 5   | [Agile Project Management](https://www.coursera.org/learn/agile-project-management?specialization=google-project-management)         | [View Certificate]()  |
 | Course 6   | [Capstone: Applying Project Management in the Real World](https://www.coursera.org/learn/applying-project-management?specialization=google-project-management)                         | [View Certificate]()  |
